@@ -1,0 +1,2 @@
+# Schedule-System
+FlutterフレームワークとDart言語を用いた予定通知Androidアプリケーション
